@@ -1,4 +1,4 @@
-![chat-modified](align = "center" https://user-images.githubusercontent.com/78891081/185777328-c1e3c022-3d8f-4b7a-84c8-da5e31602076.png)
+![chat-modified](align = center | https://user-images.githubusercontent.com/78891081/185777328-c1e3c022-3d8f-4b7a-84c8-da5e31602076.png)
 
 # ChatBot-Using-BrainShop.AI
 
