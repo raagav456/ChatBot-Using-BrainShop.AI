@@ -29,4 +29,8 @@ implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
 
 ## Sample Conversation
 
-![Screenshot_2022-08-21-09-47-34-01_1c97b8001a13e73c1d0f5032bd46aa55](https://user-images.githubusercontent.com/78891081/185777578-e793072c-e85c-4967-8c97-0f640e10facb.jpg)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/78891081/185777578-e793072c-e85c-4967-8c97-0f640e10facb.jpg" width = "200" height = "600">
+</p>
+
+
