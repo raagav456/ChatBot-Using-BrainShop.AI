@@ -1,5 +1,6 @@
-![chat-modified](align = center | https://user-images.githubusercontent.com/78891081/185777328-c1e3c022-3d8f-4b7a-84c8-da5e31602076.png)
-
+<p align="center">
+  <img  src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/78891081/185777328-c1e3c022-3d8f-4b7a-84c8-da5e31602076.png)">
+</p>
 # ChatBot-Using-BrainShop.AI
 
 The name of the ChatBot is MuskBot. I am interested to do project with java and made the whole project with it and with the help of BrainShop.AI.
