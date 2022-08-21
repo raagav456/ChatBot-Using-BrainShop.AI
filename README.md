@@ -22,7 +22,7 @@ graph TD;
 
 ### How to generate BrainShop.AI API
 
-<p align="center">
+<p align="left">
   <img  src="https://user-images.githubusercontent.com/78891081/185778981-d52fb64f-a2ea-4860-84fe-5a8fe975b7e3.jpg" width = "800" height = "400">
 </p>
 
