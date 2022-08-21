@@ -30,7 +30,7 @@ implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
 ## Sample Conversation
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/78891081/185777578-e793072c-e85c-4967-8c97-0f640e10facb.jpg" width = "200" height = "600">
+  <img  src="https://user-images.githubusercontent.com/78891081/185777578-e793072c-e85c-4967-8c97-0f640e10facb.jpg" width = "300" height = "500">
 </p>
 
 
