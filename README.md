@@ -12,13 +12,19 @@ This MuskBot can reply to you and you can reply to MuskBot on the next occurence
 First we have to code for backened and frontend then we have to integrate our project with brainshop.ai. This brainshop.ai is already a trainned model for creating
 chatbots. we have to use another api called retrofit for converting client side messages to json format and searches in brainshop.ai like REST api and displays output.
 
-Here is a simple flow chart:
+Here is a simple flow chart :
 
 ```mermaid
 graph TD;
     Client-->Retrofit;
     Retrofit-->BrainShop.AI;
 ```
+
+### How to generate BrainShop.AI API
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/78891081/185778981-d52fb64f-a2ea-4860-84fe-5a8fe975b7e3.jpg" width = "500" height = "200">
+</p>
 
 ### Dependencies for Retrofit
 
